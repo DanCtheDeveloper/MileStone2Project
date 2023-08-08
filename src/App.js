@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lets gooo!!!!!
+          Lets gooo!!!!!  Skol Vikes!!!
         </a>
       </header>
     </div>
